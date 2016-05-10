@@ -3,9 +3,6 @@
 	"dns_config": {
 		"allow_stale": false
 	},
-	"ports": {
-		"dns": 53
-	},
 	"recursors": [
 		"8.8.8.8",
 		"8.8.4.4"
